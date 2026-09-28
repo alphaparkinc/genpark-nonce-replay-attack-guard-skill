@@ -1,0 +1,9 @@
+{
+  "name": "genpark-nonce-replay-attack-guard-skill",
+  "version": "1.0.0",
+  "description": "Sliding-window nonce ledger and replay attack detector invalidating duplicated agent API requests and token reflections.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
